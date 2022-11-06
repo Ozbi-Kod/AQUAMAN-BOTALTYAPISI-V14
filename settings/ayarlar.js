@@ -8,7 +8,7 @@ module.exports = {
     HATALOG: process.env.HATALOG || "", // Hata Log
     LOADCOMMANDS: process.env.LOADCOMMANDS || "", // LoadCommands Log
     BİLDİRİLOG: process.env.BİLDİRİLOG || "", // Bildiri Log
-    BOTUNADI: procces.env.BOTUNADI || "", // Botun Adını Giriniz.
+    BOTUNADI: process.env.BOTUNADI || "", // Botun Adını Giriniz.
 
     //Yukardaki Herhangi Birşeyi Doldurmazsanız Hata Alırsınız.
 
